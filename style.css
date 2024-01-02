@@ -1,0 +1,97 @@
+#navbar {
+    height: 80px;
+    width: 1600px;
+    background-color: black;
+    color: rgb(18, 15, 214);
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    top: 0;
+    
+}
+a{
+    text-decoration: none;
+}
+
+#indian{
+    margin-top: 30px;
+    text-decoration: none;
+}
+#home{
+    margin-top: 30px;
+    text-decoration: none;
+
+}
+#category{
+    margin-top: 30px;
+    text-decoration: none;
+
+}
+#live{
+    margin-top: 30px;
+    text-decoration: none;
+
+}
+#search {
+    margin-top: 30px;
+}
+
+
+#photo {
+    height: 500px;
+    width: 1600px;
+    background-color: brown;
+    background-image: url("lk.jpg");
+    background-size: cover;
+    
+}
+
+#part {
+    height: 400px;
+    width: 1600px;
+    background-color: rgb(252, 249, 249);
+    display: flex;
+    justify-content: space-evenly;
+}
+#box1 {
+    height: 400px;
+    width: 300px;
+    background-color: rgb(120, 11, 170);
+    border-radius: 10px;
+    background-image: url(ko.jpg);
+    background-size: cover;
+}
+#box2 {
+    height: 400px;
+    width: 300px;
+    background-color: rgb(199, 60, 25);
+    border-radius: 10px;
+    background-image: url(jk.webp);
+    background-size: cover;
+}
+#box3 {
+    height: 400px;
+    width: 300px;
+    background-color: rgb(88, 202, 12);
+    border-radius: 10px;
+    background-image: url(ok.jpg);
+    background-size: cover;
+}
+#box4 {
+    height: 400px;
+    width: 300px;
+    background-color: rgb(29, 212, 212);
+    border-radius: 10px;
+    background-image: url(popol.jpg);
+    background-size: cover;
+}
+
+#footer {
+    height: 300px;
+    width: 1600px;
+    background-color: rgb(5, 109, 109);
+    position:static;
+    bottom: 0;
+
+}
+
